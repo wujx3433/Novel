@@ -26,11 +26,11 @@
 
 ## 许可协议
 
-在无额外说明的情况下，本频道的所有文学作品、图像作品以及其他由wujx3433创作的作品，均需要遵循CC BY-NC-SA（即署名-非商业性使用-相同方式共享）协议。
+在无额外说明的情况下，本频道的所有由wujx3433创作的作品，均需要遵循[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)（即署名-非商业性使用-相同方式共享）协议。
 
 <img src="./Source/Cc-by-nc-sa_icon.svg.png" alt="CC BY-NC-SA" height="50">
 
-
+> Copyright © 2025 wujx3433 aka Zn.
 
 ## 目录结构
 
