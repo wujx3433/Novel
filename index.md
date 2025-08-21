@@ -1,3 +1,8 @@
+---
+layout: default
+title: 小说目录
+---
+
 # Novel
 
 ## 仓库简介
