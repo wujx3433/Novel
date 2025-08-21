@@ -1,0 +1,17 @@
+name: Notify Pages to update
+
+on:
+  push:
+    branches: [ main ]   # 你小说仓库的主分支
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger Pages repo update
+        run: |
+          curl -X POST \
+            -H "Accept: application/vnd.github.everest-preview+json" \
+            -H "Authorization: token ${{ secrets.PAGES_TRIGGER_TOKEN }}" \
+            https://api.github.com/repos/wujx3433/wujx3433.github.io/dispatches \
+            -d '{"event_type":"update-submodule"}'
