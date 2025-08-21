@@ -2,7 +2,7 @@ name: Notify Pages to update
 
 on:
   push:
-    branches: [ main ]   # 你小说仓库的主分支
+    branches: [ main ]
 
 jobs:
   notify:
