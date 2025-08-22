@@ -1,7 +1,7 @@
 # Linux/Unix
 lost+found/
 
-# LaTeX
+# TeX
 *.aux
 *.out
 *.toc
@@ -23,12 +23,10 @@ lost+found/
 # macOS
 .AppleDouble
 .LSOverride
+.DS_Store
 
 # System files
 Icon?
-
-# macOS
-.DS_Store
 
 # Node.js
 node_modules/
