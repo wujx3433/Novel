@@ -1,3 +1,32 @@
+# Linux/Unix
+lost+found/
+
+# LaTeX
+*.aux
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.bbl
+*.blg
+*.log
+
+# Backup files
+*~
+# Swap files
+*.swp
+*.swo
+
+# macOS
+.AppleDouble
+.LSOverride
+
+# System files
+Icon?
+
 # macOS
 .DS_Store
 
