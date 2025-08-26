@@ -76,7 +76,7 @@
 
 <img src="./Source/Cc-by-nc-sa_icon.svg.png" alt="CC BY-NC-SA" height="50">
 
-> Copyright © 2025 wujx3433 aka Zn.
+> Copyright © 2018 - 2025 wujx3433 aka Zn.
 
 ## 反馈与交流
 
